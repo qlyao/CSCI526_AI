@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{74CBDB72-53F6-62D0-9901-B5444979F558}") = "AI entities", "Assembly-CSharp.csproj", "{9D23090D-3494-4A7A-5BD6-3010FD79E82B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D23090D-3494-4A7A-5BD6-3010FD79E82B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D23090D-3494-4A7A-5BD6-3010FD79E82B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D23090D-3494-4A7A-5BD6-3010FD79E82B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D23090D-3494-4A7A-5BD6-3010FD79E82B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
